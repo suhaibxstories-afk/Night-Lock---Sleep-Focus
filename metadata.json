@@ -1,0 +1,6 @@
+{
+  "name": "Night Lock – Sleep Focus",
+  "description": "Reduces late-night phone addiction by automatically blocking distracting apps during sleeping hours and restoring access in the morning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
